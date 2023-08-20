@@ -33,3 +33,36 @@ num = input('Enter a number: ')
 print('You Entered:', num)
 
 print('Data type of num:', type(num))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi nishan from sindhul sjlkajslkjfalskj
+aasdfafdasf
+
+asf
+as
+forsafd
+s
+adf
+and f
