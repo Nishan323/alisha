@@ -15,3 +15,21 @@ print("Data type of num_sum:",type(num_sum))
 sdfgsdgsdgfsdfg
 bgnjdghjfg]
 ghuftghikf
+
+
+
+
+
+
+
+
+
+
+
+
+# using input() to take user input
+num = input('Enter a number: ')
+
+print('You Entered:', num)
+
+print('Data type of num:', type(num))
