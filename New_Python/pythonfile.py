@@ -12,3 +12,6 @@ num_sum = num_integer + num_string
 
 print("Sum:",num_sum)
 print("Data type of num_sum:",type(num_sum))
+sdfgsdgsdgfsdfg
+bgnjdghjfg]
+ghuftghikf
